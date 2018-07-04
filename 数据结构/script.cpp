@@ -1,4 +1,3 @@
-/*Ëã·¨2.6*/
 struct List
 {
 	int length;
